@@ -1,6 +1,6 @@
 # debug-it
 [![Build Status](https://travis-ci.org/lsentkiewicz/debug-it.svg?branch=master)](https://travis-ci.org/lsentkiewicz/debug-it)
-[![codecov](https://codecov.io/gh/lsentkiewicz/debug-it/branch/master/graph/badge.svg)](https://codecov.io/gh/lsentkiewicz/debug-it)
+[![codecov](https://codecov.io/gh/lsentkiewicz/debug-it/branch/master/graph/badge.svg)](https://codecov.io/gh/lsentkiewicz/debug-it) [![Greenkeeper badge](https://badges.greenkeeper.io/BetterCallSky/debug-it.svg)](https://greenkeeper.io/)
 
 Debug-it is a simple library for logging input and output parameters of a decorated class.
 It depends on [debug](https://www.npmjs.com/package/debug).  
